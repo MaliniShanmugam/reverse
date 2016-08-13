@@ -8,5 +8,6 @@ b=b%10;
 a=a/10;
 }
 sum=sum+b;
+printf("%d",sum);
 return 0;
 }
